@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing undergraduation in CSE 
 - 🌱 I'm also enrolled in BSc in Data Science and Programming from IIT Madras. 
 - 💞️ I’m looking to collaborate on any ML/AI/DL project
-- 📫 How to reach me: vibhorgrg4@gmail.com
+- 📫 How to reach me: vibhorgrg3@gmail.com
 
 <!---
 vibhorgrg3/vibhorgrg3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
